@@ -1,0 +1,66 @@
+
+body{
+    background-color:black;
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+
+.content{
+    display:flex;
+    grid-column-gap:10px;
+    margin:1%;
+    background-color:black;
+    top:0%;
+    right:0%;
+    bottom:0%;
+    left:0%;
+
+
+
+
+}
+
+.main-container{
+    background-color:black;
+    height:auto;
+    border-radius:10px;
+
+
+}
+
+.header{
+    background-color:black;
+    height:15%;
+    width:auto;
+    margin:1%;
+    top:auto;
+    text-align:center;
+    color:white;
+    border-color:rgb(155,155,155);
+    border-style:solid;
+        border-radius:10px;
+
+}
+.nav-bar{
+    background-color:black;
+    width:15%;
+    text-align:center;
+    border-style:solid;
+    border-color:rgb(155,155,155);
+    color:white;
+    border-radius:10px;
+
+
+}
+
+.sub-content{
+    width:85%;
+    background-color:red;
+    text-align:center;
+    background-color:black;
+    border:2.5px;
+    border-style: solid;
+    border-color:rgb(155,155,155);
+    color:white;
+    border-radius:10px;
+
+}
