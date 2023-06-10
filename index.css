@@ -19,6 +19,17 @@ body{
 
 }
 
+.code-block{
+    background-color: rgb(20,20,20);
+    border-radius:20px;
+    margin:1%;
+}
+
+a {
+    color:white;
+    text-decoration: underline;
+}
+
 .main-container{
     background-color:black;
     height:auto;
@@ -37,7 +48,7 @@ body{
     color:white;
     border-color:rgb(155,155,155);
     border-style:solid;
-        border-radius:10px;
+    border-radius:10px;
 
 }
 .nav-bar{
